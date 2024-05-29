@@ -1,0 +1,81 @@
+nhatnguyen4;nhat;nguyen;4000 
+Alic,Gallaher,Kettlewell,515486 
+Artemus,Frend,Hinder,575048 
+Arturo,Lie,Snedden,968296 
+Brinn,Goodlet,Emmens,581988 
+Clo,Petrou,De Hailes,360648 
+Dionis,De Meis,Trenholm,702549 
+Latia,Sleigh,Gettens,788663 
+Magda,Champkins,Winwood,291788 
+Melinda,Beharrell,Featherstone,770702 
+Oralia,Lundbeck,Barlee,351680 
+Ravid,Paddington,Siemon,943805 
+Rooney,Daveren,Hatt,54721.4 
+Ruy,Rosendorf,Burds,113038 
+Tiebold,Groll,Allnatt,579430 
+Win,Sonley,Caustic,431898 
+nhatnguyen4,nhat,nguyen,12000 
+Alic,Gallaher,Kettlewell,515486 
+Artemus,Frend,Hinder,575048 
+Arturo,Lie,Snedden,968296 
+Brinn,Goodlet,Emmens,581988 
+Clo,Petrou,De Hailes,360648 
+Dionis,De Meis,Trenholm,702549 
+Latia,Sleigh,Gettens,788663 
+Magda,Champkins,Winwood,291788 
+Melinda,Beharrell,Featherstone,770702 
+Oralia,Lundbeck,Barlee,351680 
+Ravid,Paddington,Siemon,943805 
+Rooney,Daveren,Hatt,54721.4 
+Ruy,Rosendorf,Burds,113038 
+Tiebold,Groll,Allnatt,579430 
+Win,Sonley,Caustic,431898 
+nhatnguyen4,nhat,nguyen,3.012e+006 
+Alic,Gallaher,Kettlewell,515486 
+Artemus,Frend,Hinder,575048 
+Arturo,Lie,Snedden,968296 
+Brinn,Goodlet,Emmens,581988 
+Clo,Petrou,De Hailes,360648 
+Dionis,De Meis,Trenholm,702549 
+Latia,Sleigh,Gettens,788663 
+Magda,Champkins,Winwood,291788 
+Melinda,Beharrell,Featherstone,770702 
+Oralia,Lundbeck,Barlee,351680 
+Ravid,Paddington,Siemon,943805 
+Rooney,Daveren,Hatt,54721.4 
+Ruy,Rosendorf,Burds,113038 
+Tiebold,Groll,Allnatt,579430 
+Win,Sonley,Caustic,431898 
+nhatnguyen4,nhat,nguyen,12020 
+Alic,Gallaher,Kettlewell,515486 
+Artemus,Frend,Hinder,575048 
+Arturo,Lie,Snedden,968296 
+Brinn,Goodlet,Emmens,581988 
+Clo,Petrou,De Hailes,360648 
+Dionis,De Meis,Trenholm,702549 
+Latia,Sleigh,Gettens,788663 
+Magda,Champkins,Winwood,291788 
+Melinda,Beharrell,Featherstone,770702 
+Oralia,Lundbeck,Barlee,351680 
+Ravid,Paddington,Siemon,943805 
+Rooney,Daveren,Hatt,54721.4 
+Ruy,Rosendorf,Burds,113038 
+Tiebold,Groll,Allnatt,579430 
+Win,Sonley,Caustic,431898 
+nhatnguyen4,nhat,nguyen,12003 
+Alic,Gallaher,Kettlewell,515486 
+Artemus,Frend,Hinder,575048 
+Arturo,Lie,Snedden,968296 
+Brinn,Goodlet,Emmens,581988 
+Clo,Petrou,De Hailes,360648 
+Dionis,De Meis,Trenholm,702549 
+Latia,Sleigh,Gettens,788663 
+Magda,Champkins,Winwood,291788 
+Melinda,Beharrell,Featherstone,770702 
+Oralia,Lundbeck,Barlee,351680 
+Ravid,Paddington,Siemon,943805 
+Rooney,Daveren,Hatt,54721.4 
+Ruy,Rosendorf,Burds,113038 
+Tiebold,Groll,Allnatt,579430 
+Win,Sonley,Caustic,431898 
+nhatnguyen4,nhat,nguyen,8000 
